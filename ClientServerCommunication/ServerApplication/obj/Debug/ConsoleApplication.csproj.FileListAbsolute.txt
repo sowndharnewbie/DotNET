@@ -1,0 +1,7 @@
+C:\Users\sowndhar\source\repos\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\sowndhar\source\repos\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\sowndhar\source\repos\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\sowndhar\source\repos\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\sowndhar\source\repos\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\sowndhar\source\repos\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\sowndhar\source\repos\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
